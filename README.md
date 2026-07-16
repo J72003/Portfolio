@@ -30,17 +30,7 @@ Everything lives in `src/data/` — edit these files, not the components:
 | `awards.ts` | Recognition wall (typed by Individual/Team/Publication/Scholarship/Program) |
 | `skills.ts` | Skills, education, certifications, Claude Corps matrix |
 
-Links still set to a `#TODO` value render with a small **⚑add** marker on the site so nothing ships
-with a dead button by accident.
 
-## Accessibility / quality features
-
-- Semantic HTML, skip-link, visible focus states, keyboard-operable tabs and menu
-- Sticky nav with reading-progress indicator and accessible mobile menu
-- `prefers-reduced-motion` respected; print stylesheet for the résumé
-- No skill-percentage bars, no invented metrics, no exposed credentials, no real API calls
-
----
 
 
 
